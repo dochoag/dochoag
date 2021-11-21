@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dochoag
 - 👀 I’m interested in ...embedded systems
-- 🌱 I’m currently learning ...STM32
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- my proyects videos (update soon) 👀 
+   - https://youtube.com/playlist?list=PLBcGIZzw-aKoH4-O9AHeQ7Uuiw9fBi0Tq
 
 <!---
 dochoag/dochoag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
